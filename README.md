@@ -94,7 +94,7 @@ class names:
 | faghat-obor-az-chap-mojaz | فقط عبور از چپ مجاز | compulsory keep left | <img width="30%" src='./files/عبور-از-سمت-چپ-مجاز.png'/> |
 | faghat-obor-az-rast-mojaz | فقط عبور از راست مجاز | compulsory keep right | <img width="30%" src='./files/عبور-از-سمت-راست-مجاز.png'/> |
 | gardesh-be-rast-mamnoe | گردش به راست ممنوع | right turn prohebited | <img width="30%" src='./files/گردش-به-راست-ممنوع.png'/> |
-| gardesh-be-rast-mamnoe | گردش به چپ ممنوع | right turn prohebited | <img width="30%" src='./files/گردش-به-چپ-ممنوع.png'/> |
+| gardesh-be-chap-mamnoe | گردش به چپ ممنوع | left turn prohebited | <img width="30%" src='./files/گردش-به-چپ-ممنوع.png'/> |
 | hadeaksar-sorat-mojaz-100 | حداکثر سرعت مجاز 100 | speed limit 100 | <img width="30%" src='./files/speed limit 100.jpg'/> |
 | hadeaksar-sorat-mojaz-110 | حداکثر سرعت مجاز 110 | speed limit 110 | <img width="30%" src='./files/speed limit 110.png'/> |
 | hadeaksar-sorat-mojaz-40 | حداکثر سرعت مجاز 40 | speed limit 40 | <img width="30%" src='./files/speed limit 40.png'/> |
