@@ -1,0 +1,9 @@
+# CORRECTED Traffic Sign Dataset Configuration
+
+# Dataset paths
+train: d:/Detect_traffic_sign/Traffic-sign-detection-yolov8/DataSet/train/images
+val: d:/Detect_traffic_sign/Traffic-sign-detection-yolov8/DataSet/val/images
+
+# Classes - FIXED to match labels (class ID 15)
+nc: 16
+names: ['class_0', 'class_1', 'class_2', 'class_3', 'class_4', 'class_5', 'class_6', 'class_7', 'class_8', 'class_9', 'class_10', 'class_11', 'class_12', 'class_13', 'class_14', 'traffic_sign']

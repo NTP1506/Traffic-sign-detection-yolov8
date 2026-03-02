@@ -1,0 +1,10 @@
+# Traffic Sign Dataset Configuration
+# Auto-generated for Train + Val dataset
+
+# Dataset paths
+train: d:/Detect_traffic_sign/Traffic-sign-detection-yolov8/DataSet/train/images
+val: d:/Detect_traffic_sign/Traffic-sign-detection-yolov8/DataSet/val/images
+
+# Classes
+nc: 1
+names: ['traffic_sign_15']
